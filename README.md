@@ -18,12 +18,12 @@ Github Pages
 https://muravitsky.github.io/challenge8/
 
 ----
-Sean_Dees#8364
-Check out my submission for Coding Challenge 8
-Github Repo
-https://github.com/sdees82/kitg
-Other Link
-https://flamboyant-lovelace-10ee72.netlify.com/
+Sean_Dees#8364 
+Check out my submission for Coding Challenge 8 
+Github Repo 
+https://github.com/sdees82/kitg 
+Other Link 
+https://flamboyant-lovelace-10ee72.netlify.com/ 
 
 ----
 brettCole#9880
