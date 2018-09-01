@@ -241,6 +241,25 @@ Check out my submission for Coding Challenge 8
 Github Repo  
 https://github.com/cerzsree/cerzsree.github.io  
 
+----
+The_Dude#8785  
+Check out my submission for Coding Challenge 8  
+Github Pages  
+https://jwimbs.github.io/  
+
+----
+alopez96#0884   
+Check out my submission for Coding Challenge 8  
+Github Repo  
+https://github.com//alopez96/alopez96.github.io  
+
+----
+Wooz_LosAngeles#8024  
+Check out my submission for Coding Challenge 9  
+Github Repo  
+https://github.com/april9288/4wines  
+
+
 ## What is the Challenge?
 Build a startup landing page that actually works! Start off by reading this excellent article: https://medium.com/@timferriss/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas-fae4dab10842
 Then, go through the **Bootstrap 4, Templates, And Building Your Startup Landing Page** in the Zero to Mastery course if you need a refresher. You will need to build a landing page with your business product being showcased, and an email signup form. This email form should be signed up to something like Mailchimp(https://mailchimp.com/). which will allow you to collect user emails to see how many people are interested in your product. You will now have a way to test your idea and see if people like it! Remember: the idea can be silly. You will be judged on the website, not on the product or how valid of an idea it is. Have fun with it. 
