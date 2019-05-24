@@ -26,12 +26,6 @@ Other Link
 https://flamboyant-lovelace-10ee72.netlify.com/   
   
 ----  
-brettCole#9880  
-Check out my submission for Coding Challenge 8  
-Other Link  
-https://acodercalledcole.com/Code-Challenge-8/  
-  
-----  
 AKSHAYBHOPANI#5861  
 Check out my submission for Coding Challenge 8  
 Github Pages  
