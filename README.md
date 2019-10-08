@@ -9,13 +9,6 @@ This challenge is kindly sponsored by Creative Tim (https://www.creative-tim.com
 
 ## Coding Challenge Submissions
 The wonderful submissions from some of the Zero-to-Mastery students on the eighth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
-
-Happy#7096  
-Check out my submission for Coding Challenge 8  
-Github Repo  
-https://github.com/muravitsky/challenge8  
-Github Pages  
-https://muravitsky.github.io/challenge8/  
   
 ----  
 Sean_Dees#8364   
@@ -44,24 +37,12 @@ Github Pages
 https://magvin.github.io/challenge8/  
   
 ----  
-chirkly_dirkly#7875  
-Check out my submission for Coding Challenge 8  
-Github Repo  
-https://github.com/chirkly/cc8  
-  
-----  
 Phreax#0102  
 Check out my submission for Coding Challenge 8  
 Github Repo  
 https://github.com/DirkHeijnen/Coding-Challenge-8  
 Github Pages  
 https://dirkheijnen.github.io/Coding-Challenge-8/  
-  
-----  
-dimitrisz123#1466  
-Check out my submission for Coding Challenge 8  
-Github Repo  
-https://github.com/dimitrisz123/dimitrisz123.github.io  
   
 ----  
 512jay#1133  
@@ -71,12 +52,6 @@ Github Repo
 https://github.com/512jay/forextramoney  
 Github Pages  
 https://512jay.github.io/forextramoney/  
-  
-----  
-Noblese#7691  
-Check out my submission for Coding Challenge 8  
-Github Pages  
-https://sunszs.github.io/  
   
 ----  
 napvlm#3048  
@@ -252,6 +227,33 @@ Wooz_LosAngeles#8024
 Check out my submission for Coding Challenge 9  
 Github Repo  
 https://github.com/april9288/4wines  
+
+----
+Happy#7096  
+Check out my submission for Coding Challenge 8  
+Github Repo  
+https://github.com/muravitsky/challenge8  
+Github Pages  
+https://muravitsky.github.io/challenge8/  
+
+----  
+chirkly_dirkly#7875  
+Check out my submission for Coding Challenge 8  
+Github Repo  
+https://github.com/chirkly/cc8  
+
+----  
+dimitrisz123#1466  
+Check out my submission for Coding Challenge 8  
+Github Repo  
+https://github.com/dimitrisz123/dimitrisz123.github.io 
+
+----  
+Noblese#7691  
+Check out my submission for Coding Challenge 8  
+Github Pages  
+https://sunszs.github.io/  
+
 
 
 ## What is the Challenge?
