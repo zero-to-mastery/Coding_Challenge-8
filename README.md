@@ -254,6 +254,14 @@ Check out my submission for Coding Challenge 8
 Github Pages  
 https://sunszs.github.io/  
 
+----  
+martincorona007#2064   
+Check out my submission for Coding Challenge 8  
+Github Pages  
+https://martincorona007.github.io/Startup-Tequila-Trip/  
+Github Repo  
+https://github.com/martincorona007/Startup-Tequila-Trip  
+
 
 
 ## What is the Challenge?
