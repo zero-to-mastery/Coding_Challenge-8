@@ -10,6 +10,14 @@ This challenge is kindly sponsored by [Creative Tim](https://www.creative-tim.co
 The wonderful submissions from some of the Zero-to-Mastery students on the eighth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
   
 ----  
+Milu#0200   
+Check out my submission for Coding Challenge 8   
+Github Repo   
+[Landing Page Repo](https://github.com/lucifer510/Landing-Page.git)   
+Other Link   
+[Landing Page Link](lucifer510.github.io/Landing-Page/)
+
+----  
 Sean_Dees#8364   
 Check out my submission for Coding Challenge 8   
 Github Repo   
