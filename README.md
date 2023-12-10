@@ -8,7 +8,13 @@ This challenge is kindly sponsored by [Creative Tim](https://www.creative-tim.co
 
 ## Coding Challenge Submissions
 The wonderful submissions from some of the Zero-to-Mastery students on the eighth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
-  
+
+Kaustubhratwadkar#8365  
+Check out my submission for Coding Challenge 8   
+Github Repo   
+https://kaustubhratwadkar.github.io/startup_page.github.io/  
+Other Link   
+https://github.com/Kaustubhratwadkar/startup_page.github.io
 ----  
 Sean_Dees#8364   
 Check out my submission for Coding Challenge 8   
