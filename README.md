@@ -1,4 +1,4 @@
-# Coding_Challenge-8
+# Coding_Challenge-8 - Startup Landing Pages!
 
 This coding challenge is all about **realizing the power that you have as a developer to validate business ideas**. The reason I became a programmer was because I wanted to build businesses without having to hire a developer. If I had an idea, I want to test out the market and see if my idea is worth pursuing. Being a developer allows you to really test out your ideas. Whether you want to be an entrepreneur, co-founder, or someone who can build websites fast, this challenge will help you realize the power that you now have to build anything you dream up. In addition, you are going to have another website to add to your portfolio! 
 
